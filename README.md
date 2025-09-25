@@ -1,3 +1,5 @@
+Live Link : https://capable-frangipane-70f9ff.netlify.app/
+
 Countries App
 Description
 The Countries App is a simple React application designed to fetch and display a list of countries from an external API. This project demonstrates fundamental React concepts such as fetching data, using the Suspense component for handling asynchronous operations, and rendering dynamic content with reusable components. It serves as a learning exercise for React beginners to understand component-based architecture, API integration, and basic styling with CSS.
